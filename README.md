@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tajwar Saiyeed
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently learning python
